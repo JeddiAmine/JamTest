@@ -1,0 +1,2 @@
+# JamTest
+Manual test manager
